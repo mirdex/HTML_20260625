@@ -12,3 +12,4 @@
 
 #### 課程大綱
 - [1. 前端網頁基礎概念](http://mirdex.github.io/HTML_20260625/1.%20前端網頁基礎概念.slides.html)
+- [2. 開發環境與html簡介](http://mirdex.github.io/HTML_20260625/2.%20開發環境與html簡介.slides.html)
