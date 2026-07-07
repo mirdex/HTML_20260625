@@ -16,3 +16,4 @@
 - [3. 文字相關的標籤](http://mirdex.github.io/HTML_20260625/3.%20文字相關的標籤.slides.html)
 - [4. 連結](http://mirdex.github.io/HTML_20260625/4.%20連結.slides.html)
 - [5. 圖像](http://mirdex.github.io/HTML_20260625/5.%20圖像.slides.html) 
+- [6. 表格](http://mirdex.github.io/HTML_20260625/6.%20表格_Q.slides.html) 
